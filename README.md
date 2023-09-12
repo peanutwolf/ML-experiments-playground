@@ -1,4 +1,4 @@
-# ML Engineer Home Assignment
+# StyleCARN
 
 The task involves working with a super-resolution (SR) neural network that should be older than 2018. You will also need a test dataset for SR (e.g., DIV2K, but you can choose another dataset).
 
