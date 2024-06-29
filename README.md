@@ -30,12 +30,20 @@ The task involves working with a super-resolution (SR) neural network that shoul
 <br>
 <br>
 
-# Equalized odds 
+# [Equality Of Odds](https://mlu-explain.github.io/equality-of-odds/)
 
 File: [equalized_odds.ipynb](equalized_odds.ipynb)
-
-[Equality Of Odds](https://mlu-explain.github.io/equality-of-odds/)
 
 #### Experiment about Equalized odds problem and potential solution
 
 #### Machine Learning models learn to make predictions by looking at data with the help of algorithms, both of which can potentially be biased against different groups of people. Unwanted bias in machine learning can inadvertently harm, and negatively stereotype against underrepresented or (historically and otherwise) disfavored groups. Therefore, it is crucial to evaluate and control data and model predictions not only for general machine learning performance but also for bias.
+
+
+<br>
+<br>
+
+# [Solutions to MOOC 'Introduction to mathematical statistics'](https://stepik.org/course/107204/syllabus)
+
+Solutions 2: [stats_model_eval.ipynb](stats_model_eval.ipynb)
+
+Solutions 1: [stats_model_estimate.ipynb](stats_model_estimate.ipynb)
